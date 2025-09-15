@@ -62,4 +62,8 @@
     
     <!-- Developer Credit -->
     <string name="developed_by">Developed by QBrain Team</string>
+    
+    <!-- Content Descriptions -->
+    <string name="driver_icon">Driver icon</string>
+    <string name="route_icon">Route icon</string>
 </resources>

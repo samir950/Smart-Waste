@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="issue_types">
+        <item>Bin Overflow</item>
+        <item>Sensor Malfunction</item>
+        <item>Physical Damage</item>
+        <item>Lid Problems</item>
+        <item>Location Issues</item>
+        <item>Cleaning Required</item>
+        <item>Other</item>
+    </string-array>
+</resources>
